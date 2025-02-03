@@ -126,7 +126,3 @@ This will reset all counters and provide a confirmation message.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you need any adjustments or more details in the `README`!
